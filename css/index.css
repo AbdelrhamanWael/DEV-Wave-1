@@ -128,7 +128,7 @@ header .container .navbar .contact span {
 /* start main section */
 #main {
 
-    background-image: url('/images/7b708dc211e2af1eb6a5ca79b4154a62740357c1.jpg');
+    background-image: url('../images/7b708dc211e2af1eb6a5ca79b4154a62740357c1.jpg');
     background-size: cover;
     background-position: center;
 
@@ -388,7 +388,7 @@ header .container .navbar .contact span {
     margin-top: 30px;
     padding: 100px 0;
     
-    background-image: url('/images/86\ 1.png');
+    background-image: url('../images/86\ 1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -528,7 +528,7 @@ header .container .navbar .contact span {
 }
 
 .repair-bg {
-    background-image: url('/images/8116 1.png');
+    background-image: url('../images/8116 1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
